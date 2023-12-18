@@ -5,9 +5,9 @@
 ***Information Security: Lab assignment III - Broadcast encryption with revocation***
 
 [![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&labelColor=grey&color=%233776AB)](<https://www.python.org/> "Python")
-[![License: MIT](<https://img.shields.io/github/license/danielfeitopin/MUNICS-SI-Lab2>)](LICENSE "License")
-[![GitHub issues](https://img.shields.io/github/issues/danielfeitopin/MUNICS-SI-Lab2)](<https://github.com/danielfeitopin/MUNICS-SI-Lab3> "Issues")
-[![GitHub stars](https://img.shields.io/github/stars/danielfeitopin/MUNICS-SI-Lab2)](<https://github.com/danielfeitopin/MUNICS-SI-Lab3/stargazers> "Stars")
+[![License: MIT](<https://img.shields.io/github/license/danielfeitopin/MUNICS-SI-Lab3>)](LICENSE "License")
+[![GitHub issues](https://img.shields.io/github/issues/danielfeitopin/MUNICS-SI-Lab3)](<https://github.com/danielfeitopin/MUNICS-SI-Lab3> "Issues")
+[![GitHub stars](https://img.shields.io/github/stars/danielfeitopin/MUNICS-SI-Lab3)](<https://github.com/danielfeitopin/MUNICS-SI-Lab3/stargazers> "Stars")
 
 </div>
 
